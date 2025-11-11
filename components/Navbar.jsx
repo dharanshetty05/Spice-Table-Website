@@ -10,7 +10,7 @@ export default function Navbar() {
 
 
   return (
-    <nav className="fixed top-0 left-0 w-full bg-red/50 dark:bg-black/40 backdrop-blur-md border-b border-white/20 shadow-lg z-50 transition-all duration-300">
+    <nav className="fixed top-0 left-0 w-full bg-red/40 dark:bg-black/40 backdrop-blur-md border-b border-white/20 shadow-lg z-50 transition-all duration-300">
       <div className="container mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo / Brand Name */}
         <h1 className="text-2xl font-bold tracking-wide text-white drop-shadow-md">
