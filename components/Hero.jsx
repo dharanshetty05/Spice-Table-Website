@@ -154,7 +154,7 @@ export default function Hero() {
           >
             <div className="overflow-hidden rounded-3xl">
               <img
-                src="/images/hero-bg.png"
+                src="/images/butter-chicken.jpg"
                 alt="Featured Dish"
                 className="h-[240px] w-full object-cover transition duration-700 hover:scale-105"
               />
